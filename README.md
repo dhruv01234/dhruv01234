@@ -8,6 +8,7 @@
 I am Dhruv Modi, currently pursuing my B.Tech degree in Computer Science from GLA UNIVERSITY MATHURA.I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 <h3 align="center">A passionate Computer Science Geek, looking forward to make amazing contibutions to the community.</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruv01234" alt="dhruv01234" /></a> </p>
 
 ![Top](https://user-images.githubusercontent.com/91616196/147404807-9fe4dbc0-1ea1-4c89-8a56-be5571ca1593.gif)
 <!-- Typing SVG by dhruv01234 - https://github.com/dhruv01234/readme-typing-svg -->
