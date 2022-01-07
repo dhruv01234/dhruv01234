@@ -1,5 +1,8 @@
 # Hi, I am DHRUV MODI! Great to see you here! <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px">
-
+- 🔭 I’m currently working on DSA 
+- 🌱 I’m currently learning Web Development
+- 👯 I’m looking to collaborate on C++
+- 💬 Ask me about CS
 I am Dhruv Modi, currently pursuing my B.Tech degree in Computer Science from GLA UNIVERSITY MATHURA.I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 <!-- Typing SVG by dhruv01234 - https://github.com/dhruv01234/readme-typing-svg -->
 <p align="center">
