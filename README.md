@@ -1,5 +1,5 @@
 
-<h1 align='center' status='color=blue'> <i>Hola 👋, I am DHRUV MODI😊</i></h2> 
+<h1 align='center' status='color=blue'> <i>Hola 👋, I am <b>DHRUV MODI</b>😊</i></h1> 
 
 <!-- Typing SVG by dhruv01234 - https://github.com/dhruv01234/readme-typing-svg -->
 <p align="center">
