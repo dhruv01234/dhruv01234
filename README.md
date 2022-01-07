@@ -1,9 +1,9 @@
 
-<h1 align='center'> <i>Hola 👋, I am Kaushal Kumar😊</i></h2> 
+<h1 align='center'> <i>Hola 👋, I am DHRUV MODI😊</i></h2> 
 
-<!-- Typing SVG by kaushal32 - https://github.com/kaushal32/readme-typing-svg -->
+<!-- Typing SVG by dhruv01234 - https://github.com/dhruv01234/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/kaushal32/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Young-Hustler%20from%20INDIA!;Inexorable;Always%20learning%20new%20things.&font=Fira%20Code&center=true&width=440&height=45&color=61CC8C&vCenter=true&size=22"></a>
+  <a href="https://github.com/dhruv01234/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Young-Hustler%20from%20INDIA!;Inexorable;Always%20learning%20new%20things.&font=Fira%20Code&center=true&width=440&height=45&color=61CC8C&vCenter=true&size=22"></a>
 </p>
 
 - 🔭 I’m currently working on **DSA**
