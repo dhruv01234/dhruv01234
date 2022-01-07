@@ -9,7 +9,7 @@ I am Dhruv Modi, currently pursuing my B.Tech degree in Computer Science from [G
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhruvmodi8696@gmail.com)](mailto:dhruvmodi8696@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhruv-modi-68503a214/)](https://www.linkedin.com/in/dhruv-modi-68503a214/)
 
-[![Pranay's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=thepranaygupta&theme=xcode)](https://github.com/thepranaygupta)
+[![Dhruv's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=dhruv01234&theme=xcode)](https://github.com/dhruv01234)
 
 ## 👨🏻‍💻 Coding Profiles
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/h_18_dhruv_modi)
