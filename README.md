@@ -1,4 +1,4 @@
-# Hi, I am DHRUV MODI! Great to see you here! <img src="https://raw.githubusercontent.com/dhruv01234/dhruv01234/main/src/wave.gif" width="30px">
+# Hi, I am DHRUV MODI! Great to see you here! https://c.tenor.com/4BkYeeOwEUgAAAAC/waving-wave.gif
 
 I am Dhruv Modi, currently pursuing my B.Tech degree in Computer Science from [GLA UNIVERSITY MATHURA].I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 <!-- Typing SVG by dhruv01234 - https://github.com/dhruv01234/readme-typing-svg -->
