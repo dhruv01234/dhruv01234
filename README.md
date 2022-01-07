@@ -56,13 +56,13 @@ I am Dhruv Modi, currently pursuing my B.Tech degree in Computer Science from [G
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=thepranaygupta&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=thepranaygupta&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=dhruv01234&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruv01234&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 </td>
 </tr>
 </table>
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thepranaygupta&theme=tokyonight" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv01234&theme=tokyonight" />
 </p>
 
 ## :zap: Recent Activity
