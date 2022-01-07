@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on C++
 - 💬 Ask me about CS
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushal32&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv01234" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv01234&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv01234" /> </p>
 
 I am Dhruv Modi, currently pursuing my B.Tech degree in Computer Science from GLA UNIVERSITY MATHURA.I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 <!-- Typing SVG by dhruv01234 - https://github.com/dhruv01234/readme-typing-svg -->
