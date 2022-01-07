@@ -6,6 +6,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv01234&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv01234" /> </p>
 
 I am Dhruv Modi, currently pursuing my B.Tech degree in Computer Science from GLA UNIVERSITY MATHURA.I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+<h3 align="center">A passionate Computer Science Geek, looking forward to make amazing contibutions to the community.</h3>
+
+
+![Top](https://user-images.githubusercontent.com/91616196/147404807-9fe4dbc0-1ea1-4c89-8a56-be5571ca1593.gif)
 <!-- Typing SVG by dhruv01234 - https://github.com/dhruv01234/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/dhruv01234/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Young-Hustler%20from%20INDIA!;Inexorable;Always%20learning%20new%20things.&font=Fira%20Code&center=true&width=440&height=45&color=0e75b6&vcenter=true&size=22"></a>
