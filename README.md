@@ -21,8 +21,9 @@ I am Dhruv Modi, currently pursuing my B.Tech degree in Computer Science from GL
 </a>
 </p>
 ## 👨🏻‍💻 Coding Profiles
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/h_18_dhruv_modi)
-[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/dhruv_8696)
+
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/dhruv01234)
+[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/dhruv01234)
 
 <img align='right' src="https://user-images.githubusercontent.com/64855541/133657615-ccb22336-f4db-408e-bc30-af7ff09608e7.png" width="280">
 
