@@ -5,8 +5,6 @@
 - 💬 Ask me about CS
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv01234&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv01234" /> </p>
 
-<img align="right" src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/Overview.gif"  width="500">
-
 I am Dhruv Modi, currently pursuing my B.Tech degree in Computer Science from GLA UNIVERSITY MATHURA.I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 <!-- Typing SVG by dhruv01234 - https://github.com/dhruv01234/readme-typing-svg -->
 <p align="center">
@@ -16,8 +14,12 @@ I am Dhruv Modi, currently pursuing my B.Tech degree in Computer Science from GL
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhruvmodi8696@gmail.com)](mailto:dhruvmodi8696@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhruv-modi-68503a214/)](https://www.linkedin.com/in/dhruv-modi-68503a214/)
 
-[![Dhruv's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=dhruv01234&theme=xcode)](https://github.com/dhruv01234)
-
+<h2 align='center'><i><a href="https://github.com/dhruv01234/github-readme-activity-graph">Activity Graph 📈</i></h2>
+<p align="center">
+<a href="https://github.com/dhruv01234/github-readme-activity-graph">
+ <img src="https://activity-graph.herokuapp.com/graph?username=dhruv01234&theme=react-dark&area=true&hide_border=true" width="100%">
+</a>
+</p>
 ## 👨🏻‍💻 Coding Profiles
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/h_18_dhruv_modi)
 [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/dhruv_8696)
