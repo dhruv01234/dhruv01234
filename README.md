@@ -8,7 +8,7 @@
 I am Dhruv Modi, currently pursuing my B.Tech degree in Computer Science from GLA UNIVERSITY MATHURA.I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 <!-- Typing SVG by dhruv01234 - https://github.com/dhruv01234/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/dhruv01234/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Young-Hustler%20from%20INDIA!;Inexorable;Always%20learning%20new%20things.&font=Fira%20Code&center=true&width=440&height=45&color=61CC8C&vCenter=true&size=22"></a>
+  <a href="https://github.com/dhruv01234/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Young-Hustler%20from%20INDIA!;Inexorable;Always%20learning%20new%20things.&font=Fira%20Code&center=true&width=440&height=45&color=61CC8C&vcenter=true&size=22"></a>
 </p>
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhruvmodi8696@gmail.com)](mailto:dhruvmodi8696@gmail.com)
