@@ -20,6 +20,7 @@ I am Dhruv Modi, currently pursuing my B.Tech degree in Computer Science from GL
  <img src="https://activity-graph.herokuapp.com/graph?username=dhruv01234&theme=react-dark&area=true&hide_border=true" width="100%">
 </a>
 </p>
+  
 ## 👨🏻‍💻 Coding Profiles
 
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/dhruv01234)
