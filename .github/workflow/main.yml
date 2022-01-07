@@ -27,13 +27,18 @@ jobs:
 
     # Generates the snake  
       - uses: Platane/snk@master
-        id: snake-gif
         with:
-          github_user_name: dhruv01234
-          # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
-          gif_out_path: https://www.google.com/search?q=snake.gif&sxsrf=AOaemvKA-kum1e7N1yjPacE-nLfeDYlMIA:1641581196390&tbm=isch&source=iu&ictx=1&fir=d99ZzMLsZ22KkM%252CQppdPH_XpSjEWM%252C_%253Bklv24viM9JpprM%252CicgzQx7qoM0FrM%252C_%253BQcgxJXpaWW9S2M%252CicgzQx7qoM0FrM%252C_%253B6PAWEy6-zFsdBM%252CS9PWII3-N0AmTM%252C_%253Bj9fILt6RdNXsvM%252CmSsMY63fQdx4SM%252C_%253BmK85DPRATgAa4M%252CoMOiut33T5-REM%252C_%253B1Gf50UgLT9YraM%252CpxzdalnwokqAzM%252C_%253BFwD2_bxF_iainM%252CVig6pAE7bDsAjM%252C_%253BOyHtNy6VWM2hTM%252CicgzQx7qoM0FrM%252C_%253BYsyTbAuW2JsjrM%252C1rb4yRVOWq1gnM%252C_%253Bv3mSMfMs0V4OOM%252C89VHzHXoj9RPJM%252C_%253BL7p2w0XnbfRwaM%252CE_5BaI3aUFqOFM%252C_%253BpFI4N-1hQtMy1M%252CMkoNRY9PwYdwxM%252C_%253B8JYRcgKBrvpMnM%252CicgzQx7qoM0FrM%252C_&vet=1&usg=AI4_-kSMEseoGdQwB_BvsS0-Oex2ydNTUw&sa=X&ved=2ahUKEwjymNLApqD1AhU87HMBHUvNB-0Q9QF6BAgLEAE#imgrc=OyHtNy6VWM2hTM
-          svg_out_path: https://www.google.com/search?q=snake.svg&sxsrf=AOaemvJdZ8e_NmG07GRk1j-WIXn2qVbKPA:1641581327379&tbm=isch&source=iu&ictx=1&fir=GQUVIM6WpAlnuM%252C3pDTLCjMHxY7ZM%252C_%253BsgrMAI4ZYKORsM%252Cs2kJlBzeOlqdeM%252C_%253B0xQOyiJYSmG05M%252COrHmrzYEYE2LVM%252C_%253BMJy14czQ7nqm1M%252CNT8GSugQpel_jM%252C_%253BUSwVP06BEwoYmM%252CRTlcHQs1G2UIdM%252C_%253BQykjcQSkB7tiRM%252CXNTUSWeoUIG-tM%252C_%253B-cYOu-U9RuxVrM%252CuZErNJw82gvVkM%252C_%253BCmzEMQ5IPKP9tM%252CI6nQm3i9u68xIM%252C_%253BejUSOg1Hj8PriM%252C-t0R0mUFwAZPDM%252C_%253BAxo8HiToxfffGM%252CAbKhGOvOJRhvfM%252C_%253Bp8cDK31uRKCcIM%252ClGcdZLDR5C3c_M%252C_%253BM-nqmOhB7wHfMM%252Cpsrn3dZ_UxPFeM%252C_%253ByLYQajeZBRTrUM%252CVmqfT8gwuLO4pM%252C_%253BwbsJpW9tLE-KPM%252CDke5Liu38w1u0M%252C_%253BQmnCZyuBtcMfTM%252CJ1r6yHboAYur8M%252C_&vet=1&usg=AI4_-kSzPPWRv9lEByAMu-S9KIAsJq-AgQ&sa=X&ved=2ahUKEwiEoY3_pqD1AhVa63MBHVjtAiEQ9QF6BAgJEAE#imgrc=CmzEMQ5IPKP9tM
+    # github user name to read the contribution graph from (**required**)
+    # using action context var `github.repository_owner` or specified user
+          github_user_name: ${{ dhruv01234 }}
 
+    # path of the generated gif file
+    # If left empty, the gif file will not be generated
+          gif_out_path: dist/github-snake.gif
+
+    # path of the generated svg file
+    # If left empty, the svg file will not be generated
+          svg_out_path: dist/github-snake.svg
      # show the status of the build. Makes it easier for debugging (if there's any issues).
       - run: git status
 
