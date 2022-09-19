@@ -80,10 +80,6 @@ I am Dhruv Modi, currently pursuing my B.Tech degree in Computer Science from GL
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv01234&theme=tokyonight" />
 </p>
 
-## :zap: Recent Activity
-<!--START_SECTION:activity-->
-(https://github.com/dhruv01234/)
-<!--END_SECTION:activity-->
 
 <!-- Sauce: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
