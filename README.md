@@ -1,7 +1,6 @@
 # Hi, I am DHRUV MODI! Great to see you here! <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px">
-- 🔭 I’m currently working on DSA 
-- 🌱 I’m currently learning Web Development
-- 👯 I’m looking to collaborate on C++
+- 🔭 I’m currently working on Full Stack development 
+- 👯 I’m looking to collaborate on Vue3.js, Flutter, TypeScript, GCP, AWS, Firebase
 - 💬 Ask me about CS
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv01234&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv01234" /> </p>
 
