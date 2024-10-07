@@ -4,7 +4,7 @@
 - 💬 Ask me about CS
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv01234&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv01234" /> </p>
 
-I am Dhruv Modi, currently pursuing my B.Tech degree in Computer Science from GLA UNIVERSITY MATHURA.I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Dhruv Modi, completed my B.Tech degree in Computer Science from GLA UNIVERSITY MATHURA.I am currently working as Full stack developer @opusify it services pvt. ltd. Find out more about me & feel free to connect with me here:
 <h3 align="center">A passionate Computer Science Geek, looking forward to make amazing contibutions to the community.</h3>
 
 <!-- Typing SVG by dhruv01234 - https://github.com/dhruv01234/readme-typing-svg -->
